@@ -1,1 +1,3 @@
 # Order-Management-System
+Cerința presupune folosirea unor entități precum Client, Produs si Comanda, in care sa se stocheze datele corespunzatoare entitatilor. In acest sens, se alege o interactiune intre un sistem de gestiune al bazei de date (in acest caz MySQL) si un sistem ce face legatura dintre utilizator si sistemul de gestiune al bazei de date (in acest caz Java).
+O a doua problemă a curentei cerințe este folosirea tipurilor generice de date, pentru facilitarea utilizarii anumitor clase si metode atunci cand se doreste ca o portiune din program sa poata fi reutilizabila pentru diferite tipuri de obiecte.
